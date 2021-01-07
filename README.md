@@ -1,4 +1,4 @@
-# Nameless Project
+# bauble. 
 
 ## Core Ideas
 
@@ -12,13 +12,15 @@
 ### Examples to study
 
 * [POE.ninja](https://poe.ninja/challenge/currency)
+* [POE.ninja Fossil page](https://poe.ninja/challenge/fossils)
+    *new example is the best illustration of the idea*
 
 * [Mavin.io](https://mavin.io/search?q=Zapdos+20%2F130+Base+Set+2#)
 
 ## To-Do List
 
 * [x] Fill these in as we go
-* [ ] ~~Some ideas here~~
-* [ ] I'm still thinking,
-* [ ] you know?
-* [ ] Who really knows?
+* [ ] Create html skeleton for the idea of the main user page (index.html)
+* [ ] Add CSS to show the idea for the first working layout (style.css)
+* [ ] Add a markdown sheet that illustrates the design ideas (color/font to start)
+* [ ] Keep adding list items here
